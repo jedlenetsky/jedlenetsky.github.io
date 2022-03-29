@@ -9,8 +9,9 @@ photos:
 
 
 degrees:
-    This is an example University: 
-        Some degree I revieved: 2023
-        A different degree I recieved: 2023
+    McGill University: 
+        Bachelors of Arts and Science: 2019
+    Univiserty of Colorado - Boulder: 
+        Masters of Arts in Geography: 2021
 ---
 
