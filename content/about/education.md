@@ -5,8 +5,9 @@ photos:
   Image1: "/images/Untitled.png"
   Image2: "/images/Untitled.png"
 degrees:
-  This is an example University:
-    Some degree I revieved: '2023'
-    A different degree I recieved: 2023
+  McGill University:
+    Bachelor of Arts and Science: '2019'
+  University of Colorado - Boulder:
+    Master of Arts in Geography: 2021
 
 ---
