@@ -1,4 +1,4 @@
-baseURL = "https://sourgough.mrph.dev"
+baseURL = ""
 languageCode = "en-us"
 relativeURLs = true
 theme = "sourgough-starter"
