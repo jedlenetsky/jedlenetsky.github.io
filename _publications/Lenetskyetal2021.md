@@ -2,7 +2,7 @@
 title: "Subseasonal Predictability of Arctic Ocean Sea Ice Conditions: Bering Strait and Ekman-Driven Ocean Heat Transport"
 collection: publications
 category: manuscripts
-permalink: https://journals.ametsoc.org/view/journals/clim/34/11/JCLI-D-20-0544.1.xml #/publication/Lenetskyetal2021
+#permalink: publication/Lenetskyetal2021
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-01
 venue: 'Journal of Climate '
