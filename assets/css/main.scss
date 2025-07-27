@@ -42,3 +42,11 @@
 ;
 
 @import "custom";
+
+.author__avatar img {
+  border-radius: 0 !important;
+  border: 2px solid #333 !important;
+  max-width: 175px !important;
+  height: auto !important;
+  padding: 5px !important;
+}
