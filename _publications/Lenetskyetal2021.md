@@ -5,8 +5,8 @@ category: manuscripts
 external_url: "https://journals.ametsoc.org/view/journals/clim/34/11/JCLI-D-20-0544.1.xml"
 #permalink: publication/Lenetskyetal2021
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-06-01
-venue: 'Journal of Climate '
+#date: 2021-06-01
+#venue: 'Journal of Climate '
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
