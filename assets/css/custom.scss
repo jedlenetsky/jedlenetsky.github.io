@@ -1,7 +1,6 @@
-.author__avatar {
-  width: 160px;
-  height: auto;
-  border: 2px solid #333;
-  padding: 4px;
-  border-radius: 0;
+.author__avatar img {
+  border-radius: 0 !important;      /* square/rectangular corners */
+  border: 2px solid #333 !important; /* thin gray border */
+  max-width: 175px;                 /* match default width */
+  height: auto !important;         /* maintain aspect ratio */
 }
