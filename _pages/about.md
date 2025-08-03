@@ -15,7 +15,7 @@ My name is Jed Lenetsky and I'm a PhD Candidate at the University of Colorado - 
 Reprocessing and regridding 
 
 # Future changes to the North Water Polynya
-
+The North Water Polynya (NOW), located in northern Baffin Bay between Greenland and the Canadian Arctic, is one of the most productive ecosystems in the Arctic Ocean. In our study, currently under review at Journal of Climate, we explore how future changes in sea ice cover and ocean stratification under 2 and 3.5 degrees Celcius of warming can influence biologicial productivity in the NOW region.
 
 
 ## Past Projects
