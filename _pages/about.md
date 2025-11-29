@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jed Lenetsky and I'm a PhD Candidate at the University of Colorado - Boulder. I am  physical oceanographer whose interested in using ocean observations and climate models to improve understanding of the variability and impacts of Arctic - Subarctic ocean exchanges.  
+My name is Jed Lenetsky and I'm a PhD Candidate at the University of Colorado - Boulder. I am  physical oceanographer whose interested in using ocean observations and climate models to improve understanding of the variability and impacts of Arctic - Subarctic Ocean exchanges.  
 
 ## Current Projects
 
